@@ -1,0 +1,57 @@
+{
+  "1": {
+    "name": "Central Sector Scholarship (CSS)",
+    "description": "The Central Sector Scholarship is aimed at students who have scored above the 80th percentile of successful candidates in their relevant stream from their respective boards in Class XII. The students must be pursuing regular degree courses, and their family income must not exceed Rs. 4.5 lakh per annum.",
+    "eligibility": "Must be pursuing regular degree courses and not correspondence or distance mode. Must have scored above 80th percentile.",
+    "income_criteria": "Family income up to Rs. 4.5 lakh per annum.",
+    "apply_link": "https://www.dcescholarship.kerala.gov.in/he_ma/he_maindx.php",
+    "apply_by": "31-10-2024"
+  },
+  "2": {
+    "name": "SBIF Asha Scholarship Programme",
+    "description": "The SBIF Asha Scholarship Programme is for postgraduate students from the top 100 institutes according to the latest NIRF rankings. The students must have secured at least 75% marks and their annual family income should be less than Rs. 6 lakh.",
+    "eligibility": "Pursuing postgraduate courses from top 100 NIRF-ranked universities.",
+    "income_criteria": "Family income up to INR 6 lakh per annum.",
+    "apply_link": "https://www.sbifashascholarship.org/",
+    "apply_by": "01-10-2024"
+  },
+  "3": {
+    "name": "HDFC Bank Parivartan’s ECSS Programme",
+    "description": "The HDFC Bank Parivartan ECSS Programme is available to postgraduate students with at least 55% marks in the previous qualifying exam. The annual family income should be less than Rs. 2.5 lakh, and preference will be given to students facing personal or family crises.",
+    "eligibility": "Postgraduate students with at least 55% marks.",
+    "income_criteria": "Family income up to INR 2.5 lakh per annum.",
+    "apply_link": "https://www.hdfcbankecss.com/",
+    "apply_by": "30-10-2024"
+  },
+  "4": {
+    "name": "CH Mohammed Koya Scholarship",
+    "description": "The CH Mohammed Koya Scholarship is for Muslim, Latin, and Converted Christian girl students who are pursuing graduation or higher courses. The family income must not exceed Rs. 6 lakh per annum.",
+    "eligibility": "Girl students belonging to Muslim, Latin, and Converted Christian community.",
+    "income_criteria": "Family income up to Rs. 6 lakh per annum.",
+    "apply_link": "https://www.dcescholarship.kerala.gov.in/he_ma/he_maindx.php",
+    "apply_by": "February"
+  },
+  "5": {
+    "name": "Suvarna Jubilee Merit Scholarship",
+    "description": "The Suvarna Jubilee Merit Scholarship is for first-year UG or PG students who belong to BPL families. Students must have scored at least 50% marks in the qualifying examination.",
+    "eligibility": "First-year UG/PG students from BPL families.",
+    "income_criteria": "BPL Family.",
+    "apply_link": "https://www.dcescholarship.kerala.gov.in/he_ma/he_maindx.php",
+    "apply_by": "November"
+  },
+  "6": {
+    "name": "Post Metric Scholarship (PMS)",
+    "description": "The Post Metric Scholarship is for students from minority communities with at least 50% marks in the qualifying exam. The annual family income should not exceed Rs. 2.5 lakh.",
+    "eligibility": "Minority community students with 50% marks or above.",
+    "income_criteria": "Family income up to Rs. 2.5 lakh per annum.",
+    "apply_link": "https://scholarships.gov.in/otrapplication/#/"
+  },
+  "7": {
+    "name": "Research Award",
+    "description": "This scholarship is awarded to P.G./M.Phil/Ph.D students to pursue short-term internships and projects in institutions other than their parent college or university.",
+    "eligibility": "P.G./M.Phil/Ph.D students for internships or projects.",
+    "income_criteria": "N/A",
+    "apply_link": "https://www.dcescholarship.kerala.gov.in/he_ma/he_maindx.php",
+    "apply_by": "October"
+  }
+}
