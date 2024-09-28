@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crypto Virtual Trading</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Virtual Crypto Trading Platform</h1>
+        <div id="balance">Virtual Balance: $100,000</div>
+        <div id="crypto-prices">
+            <h2>Crypto Prices</h2>
+            <div id="btc-price">Bitcoin (BTC): $<span>Loading...</span></div>
+            <div id="eth-price">Ethereum (ETH): $<span>Loading...</span></div>
+            <!-- Add more cryptocurrencies here if needed -->
+        </div>
+
+        <div id="trading">
+            <h2>Trade</h2>
+            <select id="crypto-select">
+                <option value="btc">Bitcoin (BTC)</option>
+                <option value="eth">Ethereum (ETH)</option>
+            </select>
+
+            <input type="number" id="trade-amount" placeholder="Amount in USD" />
+            <button id="buy-btn">Buy</button>
+            <button id="sell-btn">Sell</button>
+        </div>
+
+        <div id="portfolio">
+            <h2>Your Portfolio</h2>
+            <div id="btc-holdings">Bitcoin (BTC): 0</div>
+            <div id="eth-holdings">Ethereum (ETH): 0</div>
+            <!-- Add more cryptocurrencies here if needed -->
+        </div>
+
+        <div id="transactions">
+            <h2>Transaction History</h2>
+            <ul id="transaction-history"></ul>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
